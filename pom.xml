@@ -108,7 +108,7 @@
 	</reporting>
 
 	<scm>
-		<connection>scm:svn:svn://github.com/dbsengineering/sirTP1.git</connection>
-		<url>https://github.com/dbsengineering/sirTP1.git</url>
+		<connection>scm:git:https//github.com/dbsengineering/sirTP1.git</connection>
+		<url>https://github.com/dbsengineering/sirTP1</url>
 	</scm>
 </project>
